@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
-<h3 align="center">passionate in data science, ML and AI.</h3>
+<h3 align="center">passionate about data science, ML and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunk04&label=Profile%20views&color=0e75b6&style=flat" alt="varunk04" /> </p>
 
