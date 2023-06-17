@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
-<h3 align="center">passionate about data science, ML and AI.</h3>
+<h3 align="center">As an aspiring data science enthusiast and AI enthusiast, my goal is to explore the power of data and how it can be used to drive business decisions that make a positive impact on the world. Although my foundation in statistics, programming, and data analysis is still developing, I am excited to dive into complex data sets to uncover hidden insights and trends.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunk04&label=Profile%20views&color=0e75b6&style=flat" alt="varunk04" /> </p>
 
