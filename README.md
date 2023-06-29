@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunk04&show_icons=true&locale=en&layout=compact" alt="varunk04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunk04&include_all_commits=true&show_icons=true&locale=en" alt="varunk04" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunk04&include_all_commits=true&show_icons=false&locale=en" alt="varunk04" /></p>
